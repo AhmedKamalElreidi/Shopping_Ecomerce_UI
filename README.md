@@ -1,16 +1,12 @@
-# shopping_ecomerce
+# Shopping_Ecomerce_UI
 
-A new Flutter project.
+## Flutter Challenges
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Screens
+<div>
+  <img src="https://github.com/AhmedKamalElreidi/Shopping_Ecomerce_UI/assets/107802782/f70fc9a6-32d6-49ac-9905-f5bc9ca2864a" width="200" >
+  <img src="https://github.com/AhmedKamalElreidi/Shopping_Ecomerce_UI/assets/107802782/2d488202-5991-44b7-9c2c-b02cec9cb98f" width="200" >
+  <img src="https://github.com/AhmedKamalElreidi/Shopping_Ecomerce_UI/assets/107802782/76144025-e31b-4d60-ad6d-78ea28cc562e" width="200" >
+  <img src="https://github.com/AhmedKamalElreidi/Shopping_Ecomerce_UI/assets/107802782/0b33d8a0-4f1d-4c07-915d-b1f895dac514" width="200" >
+</div>
